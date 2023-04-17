@@ -3,7 +3,7 @@ Aqui é a Isabela Sophia, tenho 18 anos e moro em São Paulo/SP.
 Abaixo estão algumas informações pertinentes da minha caminhada até aqui, pode ficar à vontade para dar uma olhada 😉
 
 - 🏫 Início dos estudos na área de programação no ano de 2020;
-- ✅ Habilitação técnica profissional em Desenvolvimento de Sistemas pelo instituto Centro Paula Souza;
+- ✅ Habilitação técnica profissional em Desenvolvimento de Sistemas pelo instituto Centro Paula Souza em formato NOVOTEC;
 - 🎯 Preferência atual na área de Front-end.
 
 
